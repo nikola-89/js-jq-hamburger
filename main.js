@@ -1,4 +1,4 @@
-$(".hamburger-menu a").click(
+$(".hamburger-menu a.close").click(
     function () {
         $(".hamburger-menu").hide(200);
     }
